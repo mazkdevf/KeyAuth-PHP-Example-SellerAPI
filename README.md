@@ -5,7 +5,7 @@ but this uses SellerAPI To check user details like normal api would do.**
 
 **So with this Example you can have your Application and Website runned on one Application.**
 
-## Changelog
+## **Change-log**
 https://headwayapp.co/pivlcloud-changelog
 
 ## Requirements

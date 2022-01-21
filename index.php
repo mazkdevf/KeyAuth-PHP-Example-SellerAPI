@@ -1,6 +1,6 @@
 <?php
 
-require 'keyauth.php';
+require 'KeyAuth.php';
 
 if (isset($_SESSION['user_data'])) 
 {

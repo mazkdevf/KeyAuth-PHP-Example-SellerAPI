@@ -1,5 +1,11 @@
 # KeyAuth-PHP-Example-SellerAPI
 
+**This example is created because newest KeyAuth API doesn't let users that have hwid locked Login,
+but this uses SellerAPI To check user details like normal api would do.**
+
+**So with this Example you can have your Application and Website runned on one Application.**
+
+
 ## Requirements
 1. **Seller Subscription**
 2. **Hosting Device**

@@ -38,6 +38,14 @@ Can be found on KeyAuth Application Seller Settings
 6. Host the files on your choice of host, if you want to test on localhost use [XAMPP](https://www.apachefriends.org/download.html) [Windows]
 7. Everything should be done now.
 
+## Page refreshes but nothing happens, after logged in to your app c# or c++
+- Make sure your KeyAuth Application HWID Mismatch looks like this, it needs to be this to work.
+
+```HWID Doesn't match. Ask for key reset.```
+
+![image](https://user-images.githubusercontent.com/79049205/150598357-45305311-a900-4e06-a461-3c46cc10e15a.png)
+
+
 ## Credits
 [![KeyAuth](https://github.com/mazk5145/mazk9154-Information/blob/main/Images/keyauthwinlogo.png?raw=true)](https://keyauth.win)
 [![KeyAuth Discord](https://github.com/mazk5145/mazk9154-Information/blob/main/Images/keyauthdiscordlogo.png?raw=true)](https://keyauth.com/discord)
